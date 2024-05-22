@@ -1,4 +1,11 @@
-# CvLLMIntegrationFrontend
+# LLM Resume Selection Recommendation Backend
+
+Aim of this application is to provide a simple frontend that will:
+
+1) Allow the users to upload CVs
+2) Allow the user to query the CV and have them ranked based on relevance
+3) Allow the user to then view those CVs that have been ranked
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
 
